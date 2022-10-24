@@ -1,2 +1,3 @@
 # grid-maker-starter-code
-Starter code for Assignment 3 - Grid Maker.
+Completed code for Assignment 3 - Grid Maker.
+Collaboraters: FatimaJavid, Lisanishrestha
